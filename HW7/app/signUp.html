@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Create New ID!</title>
+	<link rel="stylesheet" type="text/css" href="../css/signUp.css">
+
+</head>
+<body>
+  <div id="nav">
+    <a id="up" >Home</a>
+    <a id="up" >Info</a>
+    <a id="up" >Data</a>
+    <a id="up" >Analyze</a>
+    <a id="up" >World</a>
+    <a id="up" href="../first.html">Login</a>
+  </div>
+<h2>Sign up</h2>
+
+<form action="../process/register.php" method="POST">
+  <div class="container">
+  <br>
+    <label><b>Name</b></label>
+    <input type="text" placeholder="Enter your name" name="user_name" required>
+    <label><b>Birth</b></label>
+    <input type="text" placeholder="Enter your Birth" name="birth" required>
+
+    <label><b>ID</b></label>
+    <input type="text" placeholder="Enter id" name="id" required>
+
+    <label><b>Password</b></label>
+    <input type="password" placeholder="Enter Password" id="pw" name="pw" required>
+    <br>
+    <br>
+    <input type="submit" value = "Enter" class="signupbtn">
+  </div>
+</form>
+
+</body>
+</html>

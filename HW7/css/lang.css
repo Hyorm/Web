@@ -1,0 +1,30 @@
+body{
+    font-family: sans-serif;
+}
+a{
+  background-color:#ab162a;
+  width:150px;
+  height: 40px;
+  text-align: center;
+  color:white;
+  font-size: 25px;
+  float:left;
+  margin-top: 15%;
+  font-family:sans-serif;
+  text-decoration: none;
+}
+#left{
+  margin-left: 40%;
+}
+#right{
+  margin-left: 10px;
+
+}
+#Hyorm{
+  width:100%;
+  float:bottom;
+  padding: 5px 5px;
+  background-color: #EAEAEA;
+  text-align: center;
+  bottom:0px;
+}
