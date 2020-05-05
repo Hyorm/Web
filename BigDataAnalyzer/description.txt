@@ -1,0 +1,6 @@
+Welcome to Big Data World!
+
+Data - Input Your Data & Creat Your Own DB!
+Analyze - Find Your Data Property & Make Data Graph!
+Together - Meet Data Scientist & Study Data!
+About - Access Big Data Science & Enjoying a bigger world!
