@@ -280,36 +280,38 @@ $sql = "create table `bda`.`".$id."`(".$_POST['val'].")";
     - (post_max_size > upload_max_filesize >= memory_limit)
 
 ## Result
-- Login
+- Login<br>
 ![image](https://user-images.githubusercontent.com/28642467/104838946-64728c00-5901-11eb-9944-1af2a4ea2883.png)
-- Sign Up
+- Sign Up<br>
 ![image](https://user-images.githubusercontent.com/28642467/104839051-2c1f7d80-5902-11eb-9c20-7ecedba97aeb.png)
-- Main Page
+- Main Page<br>
 ![image](https://user-images.githubusercontent.com/28642467/104839070-40637a80-5902-11eb-97c7-e38b072bc6e5.png)
-- Info
+- Info<br>
 ![image](https://user-images.githubusercontent.com/28642467/104839087-53764a80-5902-11eb-8ebe-61c31392b8d9.png)
-- Data
+- Data<br>
 ![image](https://user-images.githubusercontent.com/28642467/104839100-67ba4780-5902-11eb-8088-832de7e3e483.png)
-- Data already exist
+- Data already exist<br>
 ![image](https://user-images.githubusercontent.com/28642467/104839113-7acd1780-5902-11eb-9b16-dfd2070ed435.png)
-- Analyze
+- Analyze<br>
 ![image](https://user-images.githubusercontent.com/28642467/104839128-93d5c880-5902-11eb-9e47-d615fc5fb1ee.png)
-- Count
+- Count<br>
 ![image](https://user-images.githubusercontent.com/28642467/104839144-a6500200-5902-11eb-8adf-a837117d1ab8.png)
-- Bar Chart
+- Bar Chart<br>
 ![image](https://user-images.githubusercontent.com/28642467/104839209-f7f88c80-5902-11eb-9013-d1206473bd28.png)
-- Print Data
+- Print Data<br>
 ![image](https://user-images.githubusercontent.com/28642467/104839237-0e064d00-5903-11eb-8b13-eb893f92002a.png)
-- Board(write)
+- Board(write)<br>
 ![image](https://user-images.githubusercontent.com/28642467/104839249-21b1b380-5903-11eb-9db0-c7a7fde915d2.png)
-- Board(Free)
+- Board(Free)<br>
 ![image](https://user-images.githubusercontent.com/28642467/104839259-35f5b080-5903-11eb-8fdf-e156e81aaf71.png)
-- Board(Read)
+- Board(Read)<br>
 ![image](https://user-images.githubusercontent.com/28642467/104839268-473ebd00-5903-11eb-8632-c748f500dede.png)
-- Board(Credit): Personal account
+- Board(Credit): Personal account<br>
 ![image](https://user-images.githubusercontent.com/28642467/104839286-5d4c7d80-5903-11eb-9b63-e4e0b1864b7c.png)
-- Board(Answer): easily remove
+- Board(Answer): easily remove<br>
+
 ![image](https://user-images.githubusercontent.com/28642467/104839302-72291100-5903-11eb-9ea5-2ce2723abc48.png)
+
 -TODO
   - Main
     - Change analyze background by linking with main image.
