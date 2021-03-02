@@ -20,7 +20,7 @@ Web Service project: Big Data Analyzer<br>
 - PHP, HTML, SQL
 ## Design
 ### Flow
-<p align="center"><img width="700" alt="image" src="https://user-images.githubusercontent.com/28642467/104837855-c11e7880-58fa-11eb-98b2-e7eb464907d6.png")</p>
+<p align="center"><img width="700" alt="image" src="https://user-images.githubusercontent.com/28642467/104837855-c11e7880-58fa-11eb-98b2-e7eb464907d6.png"></p>
 <p align="center">Figure 1. Flow of big data analyzer</p>
 
 #### index.html
@@ -281,35 +281,35 @@ $sql = "create table `bda`.`".$id."`(".$_POST['val'].")";
 
 ## Result
 
-<p align="center"><img width="514" alt="image" src="https://user-images.githubusercontent.com/28642467/104838946-64728c00-5901-11eb-9944-1af2a4ea2883.png")</p><br>
+<p align="center"><img width="514" alt="image" src="https://user-images.githubusercontent.com/28642467/104838946-64728c00-5901-11eb-9944-1af2a4ea2883.png"></p>
 - Login<br>
-<p align="center"><img width="514" alt="image" src="https://user-images.githubusercontent.com/28642467/104839051-2c1f7d80-5902-11eb-9c20-7ecedba97aeb.png")</p><br>
+<p align="center"><img width="514" alt="image" src="https://user-images.githubusercontent.com/28642467/104839051-2c1f7d80-5902-11eb-9c20-7ecedba97aeb.png"></p>
 - Sign Up<br>
-<p align="center"><img width="514" alt="image" src="https://user-images.githubusercontent.com/28642467/104839070-40637a80-5902-11eb-97c7-e38b072bc6e5.png")</p><br>
+<p align="center"><img width="514" alt="image" src="https://user-images.githubusercontent.com/28642467/104839070-40637a80-5902-11eb-97c7-e38b072bc6e5.png"></p>
 - Main Page<br>
-<p align="center"><img width="514" alt="image" src="https://user-images.githubusercontent.com/28642467/104839087-53764a80-5902-11eb-8ebe-61c31392b8d9.png")</p><br>
+<p align="center"><img width="514" alt="image" src="https://user-images.githubusercontent.com/28642467/104839087-53764a80-5902-11eb-8ebe-61c31392b8d9.png"></p>
 - Info<br>
-<p align="center"><img width="514" alt="image" src="https://user-images.githubusercontent.com/28642467/104839100-67ba4780-5902-11eb-8088-832de7e3e483.png")</p><br>
+<p align="center"><img width="514" alt="image" src="https://user-images.githubusercontent.com/28642467/104839100-67ba4780-5902-11eb-8088-832de7e3e483.png"></p>
 - Data<br>
-<p align="center"><img width="514" alt="image" src="https://user-images.githubusercontent.com/28642467/104839113-7acd1780-5902-11eb-9b16-dfd2070ed435.png")</p><br>
+<p align="center"><img width="514" alt="image" src="https://user-images.githubusercontent.com/28642467/104839113-7acd1780-5902-11eb-9b16-dfd2070ed435.png"></p>
 - Data already exist<br>
-<p align="center"><img width="514" alt="image" src="https://user-images.githubusercontent.com/28642467/104839128-93d5c880-5902-11eb-9e47-d615fc5fb1ee.png")</p><br>
+<p align="center"><img width="514" alt="image" src="https://user-images.githubusercontent.com/28642467/104839128-93d5c880-5902-11eb-9e47-d615fc5fb1ee.png"></p>
 - Analyze<br>
-<p align="center"><img width="514" alt="image" src="https://user-images.githubusercontent.com/28642467/104839144-a6500200-5902-11eb-8adf-a837117d1ab8.png")</p><br>
+<p align="center"><img width="514" alt="image" src="https://user-images.githubusercontent.com/28642467/104839144-a6500200-5902-11eb-8adf-a837117d1ab8.png"></p>
 - Count<br>
-<p align="center"><img width="514" alt="image" src="https://user-images.githubusercontent.com/28642467/104839209-f7f88c80-5902-11eb-9013-d1206473bd28.png")</p><br>
+<p align="center"><img width="514" alt="image" src="https://user-images.githubusercontent.com/28642467/104839209-f7f88c80-5902-11eb-9013-d1206473bd28.png"></p>
 - Bar Chart<br>
-<p align="center"><img width="514" alt="image" src="https://user-images.githubusercontent.com/28642467/104839237-0e064d00-5903-11eb-8b13-eb893f92002a.png")</p><br>
+<p align="center"><img width="514" alt="image" src="https://user-images.githubusercontent.com/28642467/104839237-0e064d00-5903-11eb-8b13-eb893f92002a.png"></p>
 - Print Data<br>
-<p align="center"><img width="514" alt="image" src="https://user-images.githubusercontent.com/28642467/104839249-21b1b380-5903-11eb-9db0-c7a7fde915d2.png")</p><br>
+<p align="center"><img width="514" alt="image" src="https://user-images.githubusercontent.com/28642467/104839249-21b1b380-5903-11eb-9db0-c7a7fde915d2.png"></p>
 - Board(write)<br>
-<p align="center"><img width="514" alt="image" src="https://user-images.githubusercontent.com/28642467/104839259-35f5b080-5903-11eb-8fdf-e156e81aaf71.png")</p><br>
+<p align="center"><img width="514" alt="image" src="https://user-images.githubusercontent.com/28642467/104839259-35f5b080-5903-11eb-8fdf-e156e81aaf71.png"></p>
 - Board(Free)<br>
-<p align="center"><img width="514" alt="image" src="https://user-images.githubusercontent.com/28642467/104839268-473ebd00-5903-11eb-8632-c748f500dede.png")</p><br>
+<p align="center"><img width="514" alt="image" src="https://user-images.githubusercontent.com/28642467/104839268-473ebd00-5903-11eb-8632-c748f500dede.png"></p>
 - Board(Read)<br>
-<p align="center"><img width="514" alt="image" src="https://user-images.githubusercontent.com/28642467/104839286-5d4c7d80-5903-11eb-9b63-e4e0b1864b7c.png")</p><br>
+<p align="center"><img width="514" alt="image" src="https://user-images.githubusercontent.com/28642467/104839286-5d4c7d80-5903-11eb-9b63-e4e0b1864b7c.png"></p>
 - Board(Credit): Personal account<br>
-<p align="center"><img width="514" alt="image" src="https://user-images.githubusercontent.com/28642467/104839302-72291100-5903-11eb-9ea5-2ce2723abc48.png")</p><br>
+<p align="center"><img width="514" alt="image" src="https://user-images.githubusercontent.com/28642467/104839302-72291100-5903-11eb-9ea5-2ce2723abc48.png"></p>
 - Board(Answer): easily remove<br>
 
 
