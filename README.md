@@ -280,37 +280,38 @@ $sql = "create table `bda`.`".$id."`(".$_POST['val'].")";
     - (post_max_size > upload_max_filesize >= memory_limit)
 
 ## Result
-- Login<br>
+
 <p align="center"><img width="514" alt="image" src="https://user-images.githubusercontent.com/28642467/104838946-64728c00-5901-11eb-9944-1af2a4ea2883.png")</p><br>
-- Sign Up<br>
+- Login<br>
 <p align="center"><img width="514" alt="image" src="https://user-images.githubusercontent.com/28642467/104839051-2c1f7d80-5902-11eb-9c20-7ecedba97aeb.png")</p><br>
-- Main Page<br>
+- Sign Up<br>
 <p align="center"><img width="514" alt="image" src="https://user-images.githubusercontent.com/28642467/104839070-40637a80-5902-11eb-97c7-e38b072bc6e5.png")</p><br>
-- Info<br>
+- Main Page<br>
 <p align="center"><img width="514" alt="image" src="https://user-images.githubusercontent.com/28642467/104839087-53764a80-5902-11eb-8ebe-61c31392b8d9.png")</p><br>
-- Data<br>
+- Info<br>
 <p align="center"><img width="514" alt="image" src="https://user-images.githubusercontent.com/28642467/104839100-67ba4780-5902-11eb-8088-832de7e3e483.png")</p><br>
-- Data already exist<br>
+- Data<br>
 <p align="center"><img width="514" alt="image" src="https://user-images.githubusercontent.com/28642467/104839113-7acd1780-5902-11eb-9b16-dfd2070ed435.png")</p><br>
-- Analyze<br>
+- Data already exist<br>
 <p align="center"><img width="514" alt="image" src="https://user-images.githubusercontent.com/28642467/104839128-93d5c880-5902-11eb-9e47-d615fc5fb1ee.png")</p><br>
-- Count<br>
+- Analyze<br>
 <p align="center"><img width="514" alt="image" src="https://user-images.githubusercontent.com/28642467/104839144-a6500200-5902-11eb-8adf-a837117d1ab8.png")</p><br>
-- Bar Chart<br>
+- Count<br>
 <p align="center"><img width="514" alt="image" src="https://user-images.githubusercontent.com/28642467/104839209-f7f88c80-5902-11eb-9013-d1206473bd28.png")</p><br>
-- Print Data<br>
+- Bar Chart<br>
 <p align="center"><img width="514" alt="image" src="https://user-images.githubusercontent.com/28642467/104839237-0e064d00-5903-11eb-8b13-eb893f92002a.png")</p><br>
-- Board(write)<br>
+- Print Data<br>
 <p align="center"><img width="514" alt="image" src="https://user-images.githubusercontent.com/28642467/104839249-21b1b380-5903-11eb-9db0-c7a7fde915d2.png")</p><br>
-- Board(Free)<br>
+- Board(write)<br>
 <p align="center"><img width="514" alt="image" src="https://user-images.githubusercontent.com/28642467/104839259-35f5b080-5903-11eb-8fdf-e156e81aaf71.png")</p><br>
-- Board(Read)<br>
+- Board(Free)<br>
 <p align="center"><img width="514" alt="image" src="https://user-images.githubusercontent.com/28642467/104839268-473ebd00-5903-11eb-8632-c748f500dede.png")</p><br>
-- Board(Credit): Personal account<br>
+- Board(Read)<br>
 <p align="center"><img width="514" alt="image" src="https://user-images.githubusercontent.com/28642467/104839286-5d4c7d80-5903-11eb-9b63-e4e0b1864b7c.png")</p><br>
+- Board(Credit): Personal account<br>
+<p align="center"><img width="514" alt="image" src="https://user-images.githubusercontent.com/28642467/104839302-72291100-5903-11eb-9ea5-2ce2723abc48.png")</p><br>
 - Board(Answer): easily remove<br>
 
-<p align="center"><img width="514" alt="image" src="https://user-images.githubusercontent.com/28642467/104839302-72291100-5903-11eb-9ea5-2ce2723abc48.png")</p><br>
 
 -TODO
   - Main
